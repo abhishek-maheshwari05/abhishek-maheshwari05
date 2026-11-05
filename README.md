@@ -42,7 +42,7 @@ I’m incredibly passionate about building **scalable and impactful products**, 
 <div align="center">
   <img
     width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com?user=maheshwariabhishek-tech&theme=react&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-maheshwari05&theme=react&hide_border=true"
   />
 </div>
 
